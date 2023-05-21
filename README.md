@@ -15,7 +15,9 @@ Para startar o projeto siga os passos abaixos:
 
     -  docker run --name docker-challenge --network docker-network -p 8080:8080 emersondiegoduarte/pos-docker-challenge:latest 
 
+4 - Abra o navegador e entre em:
 
+    - http://localhost:8080/
 
  
 
